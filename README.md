@@ -47,7 +47,9 @@ Just another strong password generator
 + Find me at: 
 
   :heavy_check_mark: Email: alydemah@gmail.com
+  
   :heavy_check_mark: Twitter: @alydemah
+  
   :heavy_check_mark: Skype: live:alydemah
 
 
