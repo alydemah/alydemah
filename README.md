@@ -44,6 +44,16 @@ Just another strong password generator
 ###
 
 
++ Find me at: 
+
+  :heavy_check_mark: Email: alydemah@gmail.com
+  :heavy_check_mark: Twitter: @alydemah
+  :heavy_check_mark: Skype: live:alydemah
+
+
+
+
+
 [![Alydemah's GitHub stats](https://github-readme-stats.vercel.app/api?username=alydemah&show_icons=true&count_private=true&hide_title=true)](https://github.com/alydemah)
 
 
