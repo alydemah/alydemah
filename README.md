@@ -1,5 +1,10 @@
 ### Hi there 👋 
 
+I'm a software engineer who is very passionate about how to make things efficient while maintaining simplicity and clarity.
+Right now I enjoy building apps using C#, Typescript, Javascript, as well as helpful websites using HTML, and CSS.
+I often use Angular to build web apps, and either NestJS or dotnet core webapi for backend.
+Aside from that, I spent some of my spare time doing weightlifting and cooking.
+
 <!--
 **alydemah/alydemah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
