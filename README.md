@@ -42,3 +42,7 @@ Just another strong password generator
 
 
 ###
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alydemah)](https://github.com/alydemah/github-readme-stats)
+
