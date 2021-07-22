@@ -46,12 +46,10 @@ Just another strong password generator
 
 + Find me at: 
 
-  :heavy_check_mark: Email: alydemah@gmail.com
-  
-  :heavy_check_mark: Twitter: @alydemah
-  
-  :heavy_check_mark: Skype: live:alydemah
 
+
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/alydemah)
+[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/alydemah)
 
 
 
