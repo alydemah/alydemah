@@ -31,31 +31,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 ## My latest projects I've build and worked on...
 
 ### 
 [Moroor.io](https://moroor.io)
 Just another strong password generator
 
+-->
+
+
+# You can contact/Find me at: 
+- Discord: [dvoverflow#8271](https://discord.com/users/702549673113550969)
+- Linkedin: [Mohamed Aly](https://www.linkedin.com/in/mohamed-aly-8b725ab2/)
+- Twitter: [alydemah](https://twitter.com/alydemah)
+- Instagram: [alydemah](https://www.instagram.com/alydemah)
+- Email: [mail@alydemah.dev](mailto://mail@alydemah.dev)
 
 
 
 
-###
-
-
-+ Find me at: 
-
-
-
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/alydemah)
-[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/alydemah)
-
-
-
+#  Github Stats
 
 [![Alydemah's GitHub stats](https://github-readme-stats.vercel.app/api?username=alydemah&show_icons=true&count_private=true&hide_title=true)](https://github.com/alydemah)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alydemah)](https://github.com/alydemah/github-readme-stats)
+
+
+
 
