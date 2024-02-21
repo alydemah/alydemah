@@ -42,7 +42,7 @@ Just another strong password generator
 
 
 # You can contact/Find me at: 
-- Discord: [dvoverflow#8271](https://discord.com/users/702549673113550969)
+- Discord: [alydemah](https://discord.com/users/702549673113550969)
 - Linkedin: [Mohamed Aly](https://www.linkedin.com/in/mohamed-aly-8b725ab2/)
 - Twitter: [alydemah](https://twitter.com/alydemah)
 - Instagram: [alydemah](https://www.instagram.com/alydemah)
