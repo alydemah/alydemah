@@ -46,7 +46,7 @@ Just another strong password generator
 - Linkedin: [Mohamed Aly](https://www.linkedin.com/in/mohamed-aly-8b725ab2/)
 - Twitter: [alydemah](https://twitter.com/alydemah)
 - Instagram: [alydemah](https://www.instagram.com/alydemah)
-- Email: [mail@alydemah.dev](mailto://mail@alydemah.dev)
+- Email: [me@alydemah.dev](mailto://me@alydemah.dev)
 
 
 
