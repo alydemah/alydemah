@@ -22,7 +22,7 @@ Outside of coding, I enjoy **weightlifting**, **cooking**, and working on side p
 
 ### 📫 Let's Connect
 - Discord: [alydemah](https://discord.com/users/702549673113550969)
-- Linkedin: [Mohamed Aly](https://www.linkedin.com/in/mohamed-aly-8b725ab2/)
+- Linkedin: [Mohamed Aly](https://www.linkedin.com/in/alydemah)
 - Twitter: [alydemah](https://twitter.com/alydemah)
 - Instagram: [alydemah](https://www.instagram.com/alydemah)
 - Email: [me@alydemah.dev](mailto://me@alydemah.dev)
