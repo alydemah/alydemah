@@ -1,47 +1,26 @@
-### Hi there 👋 
+# Hi there 👋
 
-I'm a software engineer who is very passionate about how to make things efficient while maintaining simplicity and clarity.
-Right now I enjoy building apps using C#, Typescript, Javascript, as well as helpful websites using HTML, and CSS.
-I often use Angular to build web apps, and either NestJS or dotnet core webapi for backend.
-Aside from that, I spent some of my spare time doing weightlifting and cooking.
+I'm **Mohamed Aly**, a passionate fullstack software engineer based in Germany 🇩🇪.
 
-<!--
-**alydemah/alydemah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building efficient, scalable, and developer-friendly applications with a strong focus on **clarity**, **performance**, and **user experience**.
 
+### 👨‍💻 Tech I Use Daily
+- **Frontend**: Angular, TypeScript, JavaScript, HTML, CSS
+- **Backend**: NestJS, .NET Core Web API, Golang
+- **Databases & Infrastructure**: PostgreSQL, Redis, Docker, Kubernetes, AWS
+- **Dev Practices**: Monorepo (TurboRepo), GitOps (ArgoCD), CI/CD (GitLab)
 
-<p align="center">
-  
-  <br><br>
-  </p>
+### 🚀 What I'm Building
+- Tools and SaaS platforms for developers and end users
+- Self-hosted projects with a strong privacy-first mindset
+- Systems optimized for automation, scale, and maintainability
 
-
-<details>
-  
-  
-  </details>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 
-## My latest projects I've build and worked on...
-
-### 
-[Moroor.io](https://moroor.io)
-Just another strong password generator
-
--->
+### 🏋️ About Me
+Outside of coding, I enjoy **weightlifting**, **cooking**, and working on side projects. I'm always learning and experimenting with new ideas in my homelab.
 
 
-# You can contact/Find me at: 
+
+### 📫 Let's Connect
 - Discord: [alydemah](https://discord.com/users/702549673113550969)
 - Linkedin: [Mohamed Aly](https://www.linkedin.com/in/mohamed-aly-8b725ab2/)
 - Twitter: [alydemah](https://twitter.com/alydemah)
