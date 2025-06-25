@@ -29,14 +29,3 @@ Outside of coding, I enjoy **weightlifting**, **cooking**, and working on side p
 
 
 
-
-#  Github Stats
-
-[![Alydemah's GitHub stats](https://github-readme-stats.vercel.app/api?username=alydemah&show_icons=true&count_private=true&hide_title=true)](https://github.com/alydemah)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alydemah)](https://github.com/alydemah/github-readme-stats)
-
-
-
-
