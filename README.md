@@ -6,7 +6,7 @@ I specialize in building efficient, scalable, and developer-friendly application
 
 ### 👨‍💻 Tech I Use Daily
 - **Frontend**: Angular, TypeScript, JavaScript, HTML, CSS
-- **Backend**: NestJS, .NET Core Web API, Golang
+- **Backend**: NestJS, dotnet Core, Golang, Python
 - **Databases & Infrastructure**: PostgreSQL, Redis, Docker, Kubernetes, AWS
 - **Dev Practices**: Monorepo (TurboRepo), GitOps (ArgoCD), CI/CD (GitLab)
 
