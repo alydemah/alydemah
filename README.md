@@ -18,7 +18,7 @@ I enjoy working close to real problems: data, scale, reliability, and long-term 
 
 ---
 
-##  Tech Stack (Production Experience)
+##  Tech Stack 
 
 ### Frontend
 - **Angular**, TypeScript, JavaScript
