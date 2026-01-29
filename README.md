@@ -12,9 +12,7 @@ I’m a **fullstack engineer with a strong backend & system design focus**, expe
 I care deeply about:
 - **Clean architecture & maintainable code**
 - **Performance, scalability, and observability**
-- **Developer experience (DX)**
 - **Automation & infrastructure as code**
-- **Privacy-first and self-hosted solutions**
 
 I enjoy working close to real problems: data, scale, reliability, and long-term system evolution.
 
@@ -45,21 +43,7 @@ I enjoy working close to real problems: data, scale, reliability, and long-term 
 - GitOps (**ArgoCD**)
 - Monorepos (**TurboRepo**)
 
----
 
-##  What I Build
-
-- **SaaS platforms** with subscription models & usage limits  
-- **Privacy-first applications** (client-side encryption, self-hosting)
-- **Distributed systems & microservices**
-- **Internal tools & automation platforms**
-- **Homelab & infrastructure experiments** (Proxmox, Docker, K8s, networking)
-
-  
-I enjoy designing systems that are:
-- easy to reason about  
-- easy to operate  
-- easy to extend  
 
 ---
 
