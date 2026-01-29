@@ -22,7 +22,7 @@ I enjoy working close to real problems: data, scale, reliability, and long-term 
 
 ### Frontend
 - **Angular**, TypeScript, JavaScript
-- **VueIS**, TypeScript, JavaScript
+- **VueJS**, TypeScript, JavaScript
 - HTML5, CSS3, modern component architecture
 - State management, performance optimization
 - Web components 
