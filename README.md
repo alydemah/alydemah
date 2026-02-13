@@ -21,27 +21,29 @@ I enjoy working close to real problems: data, scale, reliability, and long-term 
 ##  Tech Stack 
 
 ### Frontend
-- **Angular**, TypeScript, JavaScript
-- **VueJS**, TypeScript, JavaScript
-- HTML5, CSS3, modern component architecture
-- State management, performance optimization
-- Web components 
+- **Frameworks:** Angular, Vue.js, React  
+- **Languages:** TypeScript, JavaScript  
+- **Markup & Styling:** HTML5, CSS3  
+- **Architecture:** Modern component-based design, Web Components  
+- **Focus Areas:** State management, performance optimization  
 
 ### Backend
-- **NestJS**, **.NET Core**, **Go**, Python
-- REST APIs, WebSockets, MQTT
-- Auth systems, background workers, job queues
+- **Frameworks:** NestJS, .NET Core, FastAPI, Gin
+- **Languages:** Go, Python, TypeScript, C#  
+- **API & Communication:** REST APIs, WebSockets, MQTT  
+- **Architecture & Patterns:** Authentication & authorization systems, background workers, distributed job queues  
 
 ### Databases & Messaging
-- **PostgreSQL**, Redis
-- Data modeling, migrations, indexing, performance tuning
+- **Databases:** PostgreSQL  
+- **Caching & Messaging:** Redis  
+- **Expertise:** Data modeling, schema design, migrations, indexing, performance tuning  
 
 ### Infrastructure & DevOps
-- **Docker**, **Kubernetes**
-- **AWS**
-- CI/CD (GitLab CI, Jenkins)
-- GitOps (**ArgoCD**)
-- Monorepos (**TurboRepo**)
+- **Containerization & Orchestration:** Docker, Kubernetes  
+- **Cloud:** AWS  
+- **CI/CD:** GitLab CI, Jenkins  
+- **GitOps:** ArgoCD  
+- **Monorepo Tooling:** TurboRepo  
 
 
 
